@@ -22,6 +22,7 @@ wheels/
 
 # Virtual Environment
 venv/
+langchain/
 env/
 ENV/
 .env
